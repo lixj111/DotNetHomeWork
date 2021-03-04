@@ -1,0 +1,13 @@
+C:\Users\86130\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\86130\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\86130\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\86130\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Calculator-1.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\86130\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\bin\Debug\ConsoleApp1.exe
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\bin\Debug\ConsoleApp1.pdb
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\obj\Debug\Calculator-1.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\obj\Debug\Calculator-1.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\obj\Debug\ConsoleApp1.exe
+C:\Users\86130\source\repos\ConsoleApp1\Calculator-1\obj\Debug\ConsoleApp1.pdb
