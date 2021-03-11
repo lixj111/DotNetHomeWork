@@ -1,0 +1,7 @@
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe.config
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.pdb
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\obj\Debug\Question1PrimeFactor.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\obj\Debug\Question1PrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.exe
+C:\Users\86130\source\repos\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.pdb

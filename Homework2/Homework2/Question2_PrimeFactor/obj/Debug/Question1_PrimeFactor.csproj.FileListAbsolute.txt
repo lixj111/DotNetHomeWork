@@ -1,0 +1,7 @@
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\bin\Debug\PrimeFactor.exe.config
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\bin\Debug\PrimeFactor.exe
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\bin\Debug\PrimeFactor.pdb
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\obj\Debug\Question1_PrimeFactor.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\obj\Debug\Question1_PrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\obj\Debug\PrimeFactor.exe
+C:\Users\86130\source\repos\Homework2\Question2_PrimeFactor\obj\Debug\PrimeFactor.pdb

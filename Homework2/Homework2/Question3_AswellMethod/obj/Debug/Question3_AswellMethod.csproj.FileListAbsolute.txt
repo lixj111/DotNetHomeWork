@@ -1,0 +1,14 @@
+C:\Users\86130\source\repos\PrimeFactor\Question3\bin\Debug\Question3.exe.config
+C:\Users\86130\source\repos\PrimeFactor\Question3\bin\Debug\Question3.exe
+C:\Users\86130\source\repos\PrimeFactor\Question3\bin\Debug\Question3.pdb
+C:\Users\86130\source\repos\PrimeFactor\Question3\obj\Debug\Question3_AswellMethod.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\PrimeFactor\Question3\obj\Debug\Question3_AswellMethod.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\PrimeFactor\Question3\obj\Debug\Question3.exe
+C:\Users\86130\source\repos\PrimeFactor\Question3\obj\Debug\Question3.pdb
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\bin\Debug\Question3.exe.config
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\bin\Debug\Question3.exe
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\bin\Debug\Question3.pdb
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\obj\Debug\Question3_AswellMethod.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\obj\Debug\Question3_AswellMethod.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\obj\Debug\Question3.exe
+C:\Users\86130\source\repos\Homework2\Question3_AswellMethod\obj\Debug\Question3.pdb

@@ -1,0 +1,14 @@
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\bin\Debug\Question4ToeplitzMatrix.exe.config
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\bin\Debug\Question4ToeplitzMatrix.exe
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\bin\Debug\Question4ToeplitzMatrix.pdb
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\obj\Debug\Question4_ToeplitzMatrix.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\obj\Debug\Question4_ToeplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\obj\Debug\Question4ToeplitzMatrix.exe
+C:\Users\86130\source\repos\PrimeFactor\Question4ToeplitzMatrix\obj\Debug\Question4ToeplitzMatrix.pdb
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\bin\Debug\Question4ToeplitzMatrix.exe.config
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\bin\Debug\Question4ToeplitzMatrix.exe
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\bin\Debug\Question4ToeplitzMatrix.pdb
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\obj\Debug\Question4_ToeplitzMatrix.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\obj\Debug\Question4_ToeplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\obj\Debug\Question4ToeplitzMatrix.exe
+C:\Users\86130\source\repos\Homework2\Question4_ToeplitzMatrix\obj\Debug\Question4ToeplitzMatrix.pdb

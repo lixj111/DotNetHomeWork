@@ -1,0 +1,14 @@
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\bin\Debug\IntegerArray.exe.config
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\bin\Debug\IntegerArray.exe
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\bin\Debug\IntegerArray.pdb
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\obj\Debug\Question2_IntegerArray.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\obj\Debug\Question2_IntegerArray.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\obj\Debug\IntegerArray.exe
+C:\Users\86130\source\repos\PrimeFactor\IntegerArray\obj\Debug\IntegerArray.pdb
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\bin\Debug\IntegerArray.exe.config
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\bin\Debug\IntegerArray.exe
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\bin\Debug\IntegerArray.pdb
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\obj\Debug\Question2_IntegerArray.csprojAssemblyReference.cache
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\obj\Debug\Question2_IntegerArray.csproj.CoreCompileInputs.cache
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\obj\Debug\IntegerArray.exe
+C:\Users\86130\source\repos\Homework2\Question1_IntegerArray\obj\Debug\IntegerArray.pdb
